@@ -1,7 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18e125f7-4283-437a-9fa2-24355c61973b" name="Default" comment="" />
+    <list default="true" id="18e125f7-4283-437a-9fa2-24355c61973b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/hydra.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/sparkml-build.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/sparkml.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/build.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4f129ca7e9bc22c73329$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4f129ca7e9bc22c73329.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$4f129ca7e9bc22c73329.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7450e08a62a10c97035b$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7450e08a62a10c97035b.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$7450e08a62a10c97035b.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$bbd21214d96b62983e2c$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$bbd21214d96b62983e2c.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$bbd21214d96b62983e2c.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$fcdbac291bae63451c12$.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$fcdbac291bae63451c12.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/config-classes/$fcdbac291bae63451c12.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sparkml-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sparkml-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkml-build-compile-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkml-build-compile.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkml-build-optional.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkml-build-plugin.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkml-build-pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkml-build-provided.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkml-build-runtime-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkml-build-runtime.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkml-build-scala-tool.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkml-build-test-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkml-build-test.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/test/day01.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/.history" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/sparkml$sources/0.1/resolved.xml.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/sparkml$sources/0.1/resolved.xml.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/sparkml_2.11/0.1/resolved.xml.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/sparkml_2.11/0.1/resolved.xml.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml$sources-compile-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml$sources-compile.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml$sources-optional.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml$sources-plugin.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml$sources-pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml$sources-provided.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml$sources-runtime-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml$sources-runtime.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml$sources-scala-tool.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml$sources-test-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml$sources-test.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml_2.11-compile-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml_2.11-compile.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml_2.11-optional.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml_2.11-plugin.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml_2.11-pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml_2.11-provided.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml_2.11-runtime-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml_2.11-runtime.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml_2.11-scala-tool.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml_2.11-test-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-sparkml_2.11-test.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/ivy-report.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/ivy-report.xsl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/sparkml$sources/0.1/resolved.xml.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/sparkml$sources/0.1/resolved.xml.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/sparkml_2.12/0.1/resolved.xml.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/sparkml_2.12/0.1/resolved.xml.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml$sources-compile-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml$sources-compile.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml$sources-optional.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml$sources-plugin.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml$sources-pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml$sources-provided.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml$sources-runtime-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml$sources-runtime.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml$sources-scala-tool.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml$sources-test-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml$sources-test.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml_2.12-compile-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml_2.12-compile.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml_2.12-optional.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml_2.12-plugin.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml_2.12-pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml_2.12-provided.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml_2.12-runtime-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml_2.12-runtime.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml_2.12-scala-tool.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml_2.12-test-internal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-sparkml_2.12-test.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -18,9 +171,16 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day01.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="day01.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/test/day01.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
@@ -30,11 +190,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -219,7 +379,7 @@
     </configuration>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1540274972310" />
+    <option name="lastUpdateTimestamp" value="1540275974091" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -271,16 +431,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540274528040</updated>
-      <workItem from="1540274529448" duration="1121000" />
+      <workItem from="1540274529448" duration="1295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1121000" />
+    <option name="totallyTimeSpent" value="1295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2326" height="1258" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -290,7 +449,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33017078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7798861" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20661896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -320,18 +479,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/test/day01.scala">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/test/day01.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="378">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
