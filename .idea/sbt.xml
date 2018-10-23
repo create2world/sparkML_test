@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="D:\develop-tools\sbt\sbt013-15\bin\sbt-launch.jar" />
+    <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="E:\workspace\private\sparkML" />
+      </SbtProjectSettings>
+    </option>
+    <option name="vmParameters" value="-Dsbt.boot.director=D:/develop-tools/sbt/sbt013-15/boot -Dsbt.ivy.home=D:/develop-tools/sbt/sbt013-15/.ivy -Dsbt.repository.config=D:/develop-tools/sbt/sbt013-15/conf/repo.properties" />
+  </component>
+</project>
